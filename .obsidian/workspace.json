@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "INDEX.md",
+                "file": "LC - Mudanza.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INDEX.md",
+                "file": "LC - Mudanza.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "INDEX.md",
+                "file": "LC - Mudanza.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "INDEX.md"
+                "file": "LC - Mudanza.md"
               }
             }
           }
@@ -230,9 +230,10 @@
   },
   "active": "cfd5f237651545b7",
   "lastOpenFiles": [
+    "INDEX.md",
+    "LC - Mudanza.md",
     "Hogar/Alimentacion.md",
     "Hogar/Investigacion.md",
-    "INDEX.md",
     "Hogar/sdsadsa.md",
     "Hogar/Monitoreo.md",
     "Hogar",
