@@ -1,3 +1,9 @@
+---
+type: index
+---
+
+---
+
 ## Calendarios
 [[C - Planificacion]]
 [[CAL - Septiembre]]
