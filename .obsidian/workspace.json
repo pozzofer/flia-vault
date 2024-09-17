@@ -52,6 +52,18 @@
             }
           },
           {
+            "id": "382cffe3dd1da50e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LC - Mudanza.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "0dae43f808200cbb",
             "type": "leaf",
             "state": {
@@ -100,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -166,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hogar/CAL - Septiembre.md",
+                "file": "LC - Mudanza.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hogar/CAL - Septiembre.md",
+                "file": "LC - Mudanza.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hogar/CAL - Septiembre.md"
+                "file": "LC - Mudanza.md"
               }
             }
           }
@@ -228,18 +240,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cfd5f237651545b7",
+  "active": "382cffe3dd1da50e",
   "lastOpenFiles": [
+    "Hogar/LT - Hogar.md",
+    "Untitled.md",
+    "Hogar/CAL - Septiembre.md",
     "Hogar/Monitoreo.md",
     "INDEX.md",
     "Hogar/Alimentacion.md",
     "Hogar/Estimulacion.md",
-    "Hogar/LT - Hogar.md",
     "LC - Mudanza.md",
     "Hogar/LC - Viveres.md",
     "Hogar/sdsadsa.md",
     "Hogar/aSAS.md",
-    "Hogar/CAL - Septiembre.md",
     "Hogar/Investigacion.md",
     "Hogar",
     "DSADSADSDS"
