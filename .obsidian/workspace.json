@@ -81,7 +81,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hogar/Investigacion.md",
+                "file": "LC - Mudanza.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -228,16 +228,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cfd5f237651545b7",
+  "active": "8b4ad7ea549cb028",
   "lastOpenFiles": [
-    "INDEX.md",
+    "P - Mudanza.md",
+    "Planificacion Financiera.md",
     "LC - Mudanza.md",
-    "Hogar/Alimentacion.md",
+    "INDEX.md",
     "Hogar/Investigacion.md",
+    "Hogar/Estimulacion.md",
+    "Hogar/Alimentacion.md",
     "Hogar/sdsadsa.md",
     "Hogar/Monitoreo.md",
     "Hogar",
-    "Hogar/Estimulacion.md",
     "DSADSADSDS",
     "Hogar/LT - Hogar.md",
     "Hogar/CAL - Septiembre.md",

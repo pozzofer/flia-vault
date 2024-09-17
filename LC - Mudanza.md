@@ -9,4 +9,7 @@ cepillo para lavar zapas
 mantel
 lavarropa
 cocina
+sabanas
+toallones
+especieros
 
