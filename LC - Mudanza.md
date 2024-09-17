@@ -12,4 +12,7 @@ cocina
 sabanas
 toallones
 especieros
+cortinas
+jarrito
+ollas
 
