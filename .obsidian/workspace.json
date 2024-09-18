@@ -59,12 +59,8 @@
                 "id": "382cffe3dd1da50e",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "LC - Mudanza.md",
-                    "mode": "source",
-                    "source": false
-                  }
+                  "type": "graph",
+                  "state": {}
                 }
               },
               {
@@ -181,16 +177,26 @@
                         "useWin32Conhost": true
                       },
                       "serial": {
-                        "columns": 71,
+                        "columns": 73,
                         "data": "Microsoft Windows [Versión 10.0.22621.4037]\r\n(c) Microsoft Corporation. Todos los derechos reservados.\r\n\r\nC:\\Users\\madelafuente\\Documents\\obsidian\\flia-vault>",
-                        "rows": 15
+                        "rows": 14
                       }
                     }
                   },
                   "pinned": true
                 }
+              },
+              {
+                "id": "1ed5c754ce5bf347",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
               }
-            ]
+            ],
+            "currentTab": 1,
+            "stacked": true
           }
         ],
         "direction": "horizontal"
@@ -259,7 +265,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LC - Mudanza.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -276,7 +281,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LC - Mudanza.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -298,9 +302,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "LC - Mudanza.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -324,8 +326,8 @@
   },
   "active": "382cffe3dd1da50e",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "LC - Mudanza.md",
+    "conflict-files-obsidian-git.md",
     "Planificacion Financiera.md",
     "P - Mudanza.md",
     "Hogar/LT - Hogar.md",

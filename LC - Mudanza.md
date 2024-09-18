@@ -1,10 +1,4 @@
-<<<<<<< HEAD
----
-aliases:
-  - mudanza
-type: list
-status:
----
+
 # Mudanza
 ## Bazar
 - [ ] Mortero
@@ -25,7 +19,6 @@ status:
 - [ ] Cepillo para lavar zapas
 
 
-=======
 mortero
 cepillo para mortero
 vasos
@@ -40,11 +33,7 @@ cocina
 sabanas
 toallones
 especieros
-<<<<<<< HEAD
->>>>>>> origin/main
-=======
 cortinas
 jarrito
 ollas
->>>>>>> ac401a7c7b7c1f61933d3a92feb009e97e74c98e
 
