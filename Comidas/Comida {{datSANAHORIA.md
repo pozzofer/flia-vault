@@ -13,8 +13,8 @@ merienda: {Input: "¿Qué comió para la merienda hoy?"}
 nutrientes_incorporados:
 
 ---
-
-# Registro de Nutrición de {date}[[Comida 2024-10-12]]
+[[Comida 2024-10-11]]
+# Registro de Nutrición de {date}
 
 ## Almuerzo: {almuerzo.comida}
 

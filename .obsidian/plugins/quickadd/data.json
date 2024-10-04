@@ -29,9 +29,23 @@
       "openFileInMode": "default",
       "fileExistsMode": "Increment the file name",
       "setFileExistsBehavior": false
+    },
+    {
+      "id": "57c677cc-2932-43de-bc71-652863efcda3",
+      "name": "test",
+      "type": "Macro",
+      "command": false,
+      "macroId": "f6282d06-3d5a-44c4-b906-b37a4875f7d6"
     }
   ],
-  "macros": [],
+  "macros": [
+    {
+      "name": "test",
+      "id": "f6282d06-3d5a-44c4-b906-b37a4875f7d6",
+      "commands": [],
+      "runOnStartup": false
+    }
+  ],
   "inputPrompt": "single-line",
   "devMode": false,
   "templateFolderPath": "",

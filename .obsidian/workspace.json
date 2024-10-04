@@ -189,7 +189,43 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Comidas/Comida 2024-10-10.md",
+                "file": "z_tmpls/comida diaria.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "98157a56e36b3ec7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "z_tmpls/comida diaria.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e1d8f60bff012d34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Comidas/Comida 2024-10-12.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f4def300a9912d5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Comidas/Comida 2024-10-11.md",
                 "mode": "source",
                 "source": false
               }
@@ -222,7 +258,7 @@
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -288,7 +324,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Comidas/Comida 2024-10-10.md",
+                "file": "z_tmpls/comida diaria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -305,7 +341,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Comidas/Comida 2024-10-10.md",
+                "file": "z_tmpls/comida diaria.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -328,7 +364,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Comidas/Comida 2024-10-10.md"
+                "file": "z_tmpls/comida diaria.md"
               }
             }
           }
@@ -352,9 +388,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7b6bbf3dadb56bb6",
+  "active": "b2f02f937f3a575f",
   "lastOpenFiles": [
+    "Comidas/Comida 2024-10-12.md",
     "z_tmpls/comida diaria.md",
+    "Comidas/Comida {{datSANAHORIA.md",
+    "Comidas/Comida 2024-10-11.md",
     "Comidas/Comida 2024-10-10.md",
     "Comidas/Comida 2024-10-9.md",
     "Comidas/Comida 2024-10-7.md",
@@ -382,9 +421,6 @@
     "F - Servicios Contratados.md",
     "Untitled.md",
     "P - Mudanza.md",
-    "Planificacion Financiera.md",
-    "Hogar/Investigacion.md",
-    "Hogar/Estimulacion.md",
     "Hogar",
     "DSADSADSDS"
   ]
