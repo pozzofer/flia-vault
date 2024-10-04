@@ -93,7 +93,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diario de comidas.md",
+                "file": "z_tmpls/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diario de comidas.md",
+                "file": "z_tmpls/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diario de comidas.md",
+                "file": "z_tmpls/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diario de comidas.md"
+                "file": "z_tmpls/Untitled.md"
               }
             }
           }
@@ -257,8 +257,10 @@
   },
   "active": "9ab3b30aed6134af",
   "lastOpenFiles": [
-    "PH - Alimentacion.md",
     "Diario de comidas.md",
+    "z_tmpls/Untitled.md",
+    "z_tmpls",
+    "PH - Alimentacion.md",
     "INDEX.md",
     "Entrevista Decampo.md",
     "LC - Mudanza.md",
