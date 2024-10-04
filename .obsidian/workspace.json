@@ -93,7 +93,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z_tmpls/Untitled.md",
+                "file": "z_tmpls/comida diaria.md",
                 "mode": "source",
                 "source": false
               }
@@ -112,14 +112,14 @@
             }
           },
           {
-            "id": "b36439a30835bfc2",
+            "id": "0b5352ce8dcdecfc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z_tmpls/Untitled.md",
+                "file": "Comidas/Comida 2024-10-04.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           },
@@ -216,7 +216,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "z_tmpls/Untitled.md",
+                "file": "Comidas/Comida 2024-10-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +233,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "z_tmpls/Untitled.md",
+                "file": "Comidas/Comida 2024-10-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -256,7 +256,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "z_tmpls/Untitled.md"
+                "file": "Comidas/Comida 2024-10-04.md"
               }
             }
           }
@@ -280,14 +280,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b36439a30835bfc2",
+  "active": "0b5352ce8dcdecfc",
   "lastOpenFiles": [
+    "Brocoli.md",
+    "Comidas/Comida 2024-10-04.md",
+    "scripts/Untitled.md",
+    "Hogar/Monitoreo.md",
+    "Comidas",
+    "z_tmpls/comida diaria.md",
+    "alimentos_db/brocoli.md",
+    "alimentos_db",
     "scripts/findNutrients.js.md",
     "scripts/findNutrients.js",
-    "z_tmpls/Untitled.md",
     "scripts",
     "Untitled 1.md",
-    "Brocoli.md",
     "Diario de comidas.md",
     "z_tmpls",
     "PH - Alimentacion.md",
@@ -303,7 +309,6 @@
     "Hogar/Estimulacion.md",
     "Hogar/Alimentacion.md",
     "Hogar/sdsadsa.md",
-    "Hogar/Monitoreo.md",
     "Hogar",
     "DSADSADSDS",
     "Hogar/LT - Hogar.md",
