@@ -16,10 +16,7 @@ nutrientes_incorporados:
 
 # Registro de Nutrición de {date}[[Comida 2024-10-12]]
 
-## Almuerzo: {almuerzo.comida}
-
-## Merienda: {merienda.comida}
-
+prompt: [{placeholder: "Nombre", name: "name"}, {placeholder: "Almuerzo 1", name: "almuerzo1"},
 ## Nutrientes Incorporados:
 
 ```dataview
