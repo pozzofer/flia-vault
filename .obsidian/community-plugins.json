@@ -1,5 +1,7 @@
 [
   "obsidian-version-history-diff",
   "obsidian-git",
-  "terminal"
+  "terminal",
+  "dataview",
+  "templater-obsidian"
 ]

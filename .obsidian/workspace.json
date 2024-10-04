@@ -100,6 +100,30 @@
             }
           },
           {
+            "id": "a7957598cf8e7e4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Brocoli.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b36439a30835bfc2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "z_tmpls/Untitled.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "017bce07526cd31a",
             "type": "leaf",
             "state": {
@@ -126,7 +150,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -252,13 +276,19 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "terminal:Open terminal": false
+      "terminal:Open terminal": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "9ab3b30aed6134af",
+  "active": "b36439a30835bfc2",
   "lastOpenFiles": [
-    "Diario de comidas.md",
+    "scripts/findNutrients.js.md",
+    "scripts/findNutrients.js",
     "z_tmpls/Untitled.md",
+    "scripts",
+    "Untitled 1.md",
+    "Brocoli.md",
+    "Diario de comidas.md",
     "z_tmpls",
     "PH - Alimentacion.md",
     "INDEX.md",
