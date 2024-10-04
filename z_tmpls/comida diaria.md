@@ -6,14 +6,14 @@ bebe: Nombre de tu Bebé
 
 edad: 6 meses
 
-almuerzo: {Input: "¿Qué comió para el almuerzo hoy?"}
+almuerzo: {{Input: "¿Qué comió para el almuerzo hoy?"}}
 
-merienda: {Input: "¿Qué comió para la merienda hoy?"}
+merienda: {{Input: "¿Qué comió para la merienda hoy?"}}
 
 nutrientes_incorporados:
 
 ---
-
+[[Comida 2024-10-04]]
 # Registro de Nutrición de {date}[[Comida 2024-10-12]]
 
 prompt: [{placeholder: "Nombre", name: "name"}, {placeholder: "Almuerzo 1", name: "almuerzo1"},

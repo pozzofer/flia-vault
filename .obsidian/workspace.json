@@ -112,18 +112,6 @@
             }
           },
           {
-            "id": "0b5352ce8dcdecfc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Comidas/Comida 2024-10-04.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a068383ea5975384",
             "type": "leaf",
             "state": {
@@ -142,18 +130,6 @@
               "type": "markdown",
               "state": {
                 "file": "z_tmpls/comida diaria.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "765c7f07889f98ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Comidas/Comida 2024-10-8.md",
                 "mode": "source",
                 "source": false
               }
@@ -179,7 +155,19 @@
               "state": {
                 "file": "z_tmpls/comida diaria.md",
                 "mode": "source",
-                "source": false
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "b0834c6a5e7b53f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "z_tmpls/comida diaria.md",
+                "mode": "source",
+                "source": true
               }
             }
           },
@@ -202,30 +190,6 @@
               "type": "markdown",
               "state": {
                 "file": "z_tmpls/comida diaria.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e1d8f60bff012d34",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Comidas/Comida 2024-10-12.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f4def300a9912d5f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Comidas/Comida 2024-10-11.md",
                 "mode": "source",
                 "source": false
               }
@@ -258,7 +222,7 @@
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -388,11 +352,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b2f02f937f3a575f",
+  "active": "b0834c6a5e7b53f0",
   "lastOpenFiles": [
-    "Comidas/Comida 2024-10-12.md",
+    "Comidas/Comida 2024-10-04.md",
     "z_tmpls/comida diaria.md",
     "Comidas/Comida {{datSANAHORIA.md",
+    "Comidas/Comida 2024-10-12.md",
     "Comidas/Comida 2024-10-11.md",
     "Comidas/Comida 2024-10-10.md",
     "Comidas/Comida 2024-10-9.md",
@@ -400,7 +365,6 @@
     "Comidas/Comida 2024-10-8.md",
     "Comidas/Comida 2024-10-6.md",
     "Comidas/Comida 2024-10-5.md",
-    "Comidas/Comida 2024-10-04.md",
     "Brocoli.md",
     "scripts/Untitled.md",
     "Hogar/Monitoreo.md",
