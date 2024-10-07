@@ -16,7 +16,9 @@
                 "file": "Dashboard de Parenthood.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Dashboard de Parenthood"
             }
           },
           {
@@ -28,7 +30,9 @@
                 "file": "Nutricionista.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Nutricionista"
             }
           },
           {
@@ -40,7 +44,9 @@
                 "file": "Tasks List de monitoreo.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Tasks List de monitoreo"
             }
           },
           {
@@ -52,7 +58,9 @@
                 "file": "Task List de Salud del gordo.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Task List de Salud del gordo"
             }
           },
           {
@@ -64,7 +72,9 @@
                 "file": "Task List de Salud del gordo.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Task List de Salud del gordo"
             }
           },
           {
@@ -76,7 +86,9 @@
                 "file": "Task List de estimulacion.md",
                 "mode": "preview",
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Task List de estimulacion"
             }
           },
           {
@@ -88,7 +100,9 @@
                 "file": "Tasks List de monitoreo.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Tasks List de monitoreo"
             }
           },
           {
@@ -100,7 +114,9 @@
                 "file": "Rutina.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Rutina"
             }
           }
         ],
@@ -124,7 +140,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -139,7 +157,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -147,7 +167,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -178,7 +200,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Nutricionista"
             }
           },
           {
@@ -190,7 +214,9 @@
                 "file": "Nutricionista.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Nutricionista"
             }
           },
           {
@@ -201,7 +227,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -211,7 +239,9 @@
               "type": "outline",
               "state": {
                 "file": "Nutricionista.md"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Nutricionista"
             }
           }
         ]
