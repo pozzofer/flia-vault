@@ -34,6 +34,30 @@
             }
           },
           {
+            "id": "4e636c3d45c18613",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PH - Alimentacion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "81c8798e95d62d86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Espacio del niño.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "7b6bbf3dadb56bb6",
             "type": "leaf",
             "state": {
@@ -84,7 +108,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -150,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Montessori.md",
+                "file": "PH - Alimentacion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Montessori.md",
+                "file": "PH - Alimentacion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Montessori.md"
+                "file": "PH - Alimentacion.md"
               }
             }
           }
@@ -214,10 +238,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "307e91d32469fcf8",
+  "active": "4e636c3d45c18613",
   "lastOpenFiles": [
-    "Montessori.md",
     "INDEX.md",
+    "actividades.md",
+    "Montessori.md",
+    "Espacio del niño.md",
     "Hogar/Alimentacion.md",
     "LC - Mudanza.md",
     "Hogar/Estimulacion.md",
@@ -245,8 +271,6 @@
     "Untitled 1.md",
     "Diario de comidas.md",
     "z_tmpls",
-    "Entrevista Decampo.md",
-    "Hogar/Proyeccion Diciembre.md",
     "Hogar",
     "DSADSADSDS"
   ]
