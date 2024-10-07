@@ -1,2 +1,0 @@
-[[Espacio del niño]]
-[[actividades]]
