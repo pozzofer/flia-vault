@@ -6,6 +6,7 @@
     "status": "datetime",
     "nutrientes": "multitext",
     "merienda": "text",
-    "almuerzo": "text"
+    "almuerzo": "text",
+    "theme": "text"
   }
 }

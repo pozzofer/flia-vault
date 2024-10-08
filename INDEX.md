@@ -29,6 +29,7 @@ type: index
 [[PH - Estimulacion]]
 [[PH - Salud]]
 [[PH - Monitoreo]]
+[[Dashboard de Parenthood]]
 
 ## Finanzas
 [[Inversiones]]
